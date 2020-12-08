@@ -1,0 +1,10 @@
+[package]
+name = "day-2-password"
+version = "0.1.0"
+authors = ["Craig Wilkinson <craig.wilkinson@unity3d.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+parse-display = "0.4"
